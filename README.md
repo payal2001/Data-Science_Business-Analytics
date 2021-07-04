@@ -4,4 +4,4 @@ WHERE SCORE IS DEPENDENT VARIABLE AND HOURS IS INDEPENDENT VARIABLE.
 I HAVE USED R-PRORAMMING TO RUN THE FOLLOWING REGRESSION 
 BY. PAYAL MAHENDRA MISHRA 
 
-dat link:https://raw.githubusercontent.com/AdiPersonalWorks/Random/master/student_scores%20-%20student_scores.csv
+data link:https://raw.githubusercontent.com/AdiPersonalWorks/Random/master/student_scores%20-%20student_scores.csv
